@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have the ability to **focus** on a task and see it to *completion*.
+I am a __problem__ __solver__
