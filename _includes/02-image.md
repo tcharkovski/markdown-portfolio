@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Be happy](https://www.mswinkly.com/wp-content/uploads/2018/04/mswinkly-happy.jpg)
