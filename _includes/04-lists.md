@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Reading
+* Programming
+* Chess
+* Video games
+* Animes
